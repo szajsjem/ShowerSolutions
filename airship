@@ -1,0 +1,5 @@
+# Controlling lift
+1 static helium ballon that survives 0-1 bar
+1 expandable that only needs to expand and hold minimal pressure
+1 edf fan / compressor to move helium from one ballon to other
+1 edf fan to generate small pressure or underpressure inside the airship
