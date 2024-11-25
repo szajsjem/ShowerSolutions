@@ -1,0 +1,115 @@
+Air Enrichment System with Purification
+System Overview
+
+Purpose: Enriched air production (30-40% O2) with purification
+Capacity: 1m³/h
+Operating pressure: 1.1 bar
+Clean air output with CO2, SOx, NOx removal
+
+System Components (Flow Order)
+1. Input Stage
+
+Input HEPA filter (0.3μm)
+Heat exchanger stage 1 (counter-flow)
+
+304 Stainless steel
+20-25cm length
+Multiple 8-10mm tubes
+Temperature range: 30-150°C
+
+
+
+2. Heating Stage
+
+Heat exchanger stage 2 (counter-flow)
+
+316L Stainless steel
+Higher temperature design
+Temperature range: 150-300°C
+
+
+Nichrome wire heater
+
+22-24 AWG wire
+2-3m length
+3-4mm coil diameter
+300W capacity
+PID controlled
+
+
+Car catalyst section
+
+Operating temp: 200-300°C
+Converts CO, NOx, O3
+
+
+
+3. Cooling & Cleaning Stage
+
+Cooling section (heat recovery)
+Na2CO3 mist injection for SOx removal
+Demister
+Mid-stage HEPA filter
+
+4. PSA System
+
+4 chamber design
+
+2 chambers adsorbing (1.1 bar)
+1 chamber desorbing (1 bar, 30% purge)
+1 chamber pressurizing/depressurizing
+
+
+Cycle timing:
+
+60s adsorption
+30s desorption
+15s pressure equalization
+
+
+Zeolite 13X beds
+
+5. Output Stage
+
+Final HEPA filter
+Clean, enriched air output
+Optionally: humidifier
+
+Expected Performance
+
+O2 concentration: 30-40%
+CO2: <1 ppm
+SOx: <0.01 ppm
+NOx: <0.1 ppm
+Particles: <0.01 ppm
+
+Power Requirements
+
+input fan:~200W
+Heater: ~100W (with heat recovery)
+Control systems: ~20W
+Total system: ~350W
+
+Maintenance
+
+HEPA filters: 6-12 months
+Catalyst: 3-5 years
+Zeolite: 2-3 years
+Regular demister cleaning
+Na2CO3 solution replenishment
+
+Safety Features
+
+Temperature monitoring
+Pressure relief valves
+Thermal fuses
+Moisture detection
+Emergency shutdown
+
+Control System
+
+PID temperature control
+PSA cycle timing
+Pressure monitoring
+Flow rate control
+Safety interlocks
